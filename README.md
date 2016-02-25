@@ -12,5 +12,9 @@ A starting place for any front-end project!
 * Toughest problem you encountered
   * Connecting the dots in code
 
-Be The Programmer, Not The User
+<b>Be The Programmer, Not The User!</b>
 ![alt text](http://www.pymnts.com/wp-content/uploads/2014/10/DigitalIdentity_Feature.jpg "Be The Programmer, Not The User!")
+
+```html
+</deathsong>
+```
